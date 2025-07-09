@@ -17,7 +17,7 @@ Automatically generates **Playwright test cases** from **YouTube video transcrip
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/QAAgent-Task-YourName.git
+git clone](https://github.com/akhi1120/QA_Agent-System-/edit/main/README.md)
 cd QAAgent-Task-YourName
 
 📦 Python (for backend)
