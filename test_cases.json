@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Create Interview with Job Description",
+    "description": "Testing the functionality of creating an interview with a provided job description",
+    "steps": [
+      "Enter job description",
+      "AI suggests questions based on job description",
+      "Customize questions",
+      "Establish interview"
+    ],
+    "expected": "Interview created successfully with customized questions",
+    "type": "functional"
+  },
+  {
+    "title": "Select AI Avatar for Interview (Advanced Plan)",
+    "description": "Testing the functionality of selecting an AI avatar for interviews on the advanced plan",
+    "steps": [
+      "Select AI avatar option",
+      "Ensure lip syncing aligns with script"
+    ],
+    "expected": "AI avatar selected successfully with accurate lip syncing",
+    "type": "functional"
+  },
+  {
+    "title": "Skill Recommendations Extraction",
+    "description": "Testing the extraction of key skills from the job description for interview automation",
+    "steps": [
+      "Save job description",
+      "Observe skill recommendations",
+      "Select or add skills"
+    ],
+    "expected": "Key skills extracted successfully for interview automation",
+    "type": "functional"
+  },
+  {
+    "title": "Interview Screening Process",
+    "description": "Testing the automated screening process for interviews based on resume and skills",
+    "steps": [
+      "Upload resumes for screening",
+      "AI evaluates candidates based on skills",
+      "Review AI recommendations"
+    ],
+    "expected": "Candidates screened based on skills with AI recommendations for next round",
+    "type": "functional"
+  },
+  {
+    "title": "Candidate Selection or Rejection",
+    "description": "Testing the functionality of selecting or rejecting candidates based on AI recommendations",
+    "steps": [
+      "Review candidate summary",
+      "Select or reject candidate",
+      "Initiate next round if necessary"
+    ],
+    "expected": "Candidates selected or rejected based on AI recommendations",
+    "type": "functional"
+  }
+]
